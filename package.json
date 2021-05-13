@@ -17,6 +17,9 @@
   "scripts": {
     "test": "eslint ."
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
     "@sqrtthree/prettier-config": "~2.0.1",
     "eslint": "~7.26.0",
