@@ -1,6 +1,6 @@
 {
   "name": "@sqrtthree/eslint-config-base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A personal ESLint configuration.",
   "main": "index.js",
   "repository": {
