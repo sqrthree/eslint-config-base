@@ -6,7 +6,7 @@ A personal ESLint configuration.
 
 Add this package to your project as a dev-dependency:
 
-```console
+```bash
 npm install -D @sqrtthree/eslint-config-base
 ```
 
