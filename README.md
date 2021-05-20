@@ -7,7 +7,7 @@ A personal ESLint configuration.
 Add this package to your project as a dev-dependency:
 
 ```bash
-npm install -D @sqrtthree/eslint-config-base
+npm install -D eslint prettier @sqrtthree/eslint-config-base
 ```
 
 Then initialize the linter.
